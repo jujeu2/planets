@@ -13,3 +13,8 @@ echo
 echo "Mars"
 cat data/Mars
 echo
+
+echo "Venus"
+cat data/Venus
+echo
+
